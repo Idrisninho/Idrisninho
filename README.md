@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/7Ch2d2LGx-YAAAAd/mihono-borbon-uma-musume.gif" alt="Banner" width="100%" />
+<img src="./apapun.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats
 <p align="center">
