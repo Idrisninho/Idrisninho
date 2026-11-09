@@ -1,5 +1,4 @@
-<img src="./apapun.gif" alt="Banner" width="100%" />
-
+<img src="./assets/apapun.gif" alt="Banner" width="100%" />
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Idrisninho">
